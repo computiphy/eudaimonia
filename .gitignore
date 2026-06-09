@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Runtime data (generated at runtime, not tracked)
+data/
+*.db
+*.sqlite3
+
+# Audio outputs
+*.wav
+*.mp3
+*.ogg
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker/tmp/
+
+# Node (if used for any tooling)
+node_modules/
+
+# Logs
+*.log
